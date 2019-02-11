@@ -10,7 +10,7 @@
   <ReleaseDate>2018-03-31</ReleaseDate>
   <Default>true</Default>
   <UpdateFile OS="Any" UncompressedSize="955456062" CompressedSize="158354057"/>
-  <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,Images.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <DownloadableArchives>iconengines.7z,imageformats.7z,Images.7z,platforms.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
   <SHA1>c65b79a92799e7b7c3211339b0db32e0595dd711</SHA1>
  </PackageUpdate>
 </Updates>
